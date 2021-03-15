@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjavurek, member of a foodcoop in Linz, Austria
 - 👀 I’m interested in foodsoft programming
 - 🌱 I’m currently learning how to install the foodsoft locally
-- 💞️ I’m looking to collaborate on foodsoft prgramming
+- 💞️ I’m looking to collaborate on foodsoft programming
 - 📫 Write me a personal message!
 
 <!---
